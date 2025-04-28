@@ -1,0 +1,74 @@
+﻿@model User
+@{
+    ViewData["Title"] = "login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="~/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>تسجيل الدخول</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+</head>
+<body>
+    <div class="wrapper">
+        <nav class="nav">
+            <div class="nav-logo">
+                <!-- <img src="A_formal_and_elegant_logo_for_a_website_called_BookUnity_The_logo_should_incorporate_the_colors_orange_and_brown_featuring_a_vintage_font_that_evokes_a_sense_of_depth_and_nostalgia_reminiscent_of_the_1960s_The_des.png" height="100px" width="100px"> -->
+            </div>
+
+            <!-- <div class="nav-button">
+                <button class="btn white-btn" id="loginBtn" onclick="login()">تسجيل الدخول</button>
+                <button class="btn" id="registerBtn" onclick="register()">إنشاء حساب</button>
+            </div> -->
+            <div class="nav-menu-btn">
+                <i class="bx bx-menu" onclick="myMenuFunction()"></i>
+            </div>
+        </nav>
+
+        <!----------------------------- صندوق النموذج ----------------------------------->
+        <form class="form-box" asp-controller="User" asp-action="HandelLogin" method="post">
+
+            <!------------------- نموذج تسجيل الدخول -------------------------->
+
+            <div class="login-container" id="login">
+                <div class="top">
+                    <header>تسجيل الدخول</header>
+                    <p style="color: aliceblue; margin-left: 104px;">أهلاً بعودتك ! يُرجى تسجيل الدخول للمتابعة</p>
+                </div>
+                <br>
+                <div class="input-box">
+                    <input type="text" class="input-field" name="Email" placeholder="البريد الإلكتروني">
+                    <i class="bx bx-user"></i>
+                </div>
+                <div class="input-box">
+                    <input type="password" class="input-field" name="Password" placeholder="كلمة المرور">
+                    <i class="bx bx-lock-alt"></i>
+                </div>
+                <div class="input-box">
+                    <input type="submit" class="submit" value="تسجيل الدخول">
+                </div>
+                <div class="two-col">
+                    <div class="two">
+                        <label><a href="#">هل نسيت كلمة المرور؟</a></label>
+                    </div>
+                    <div class="one">
+                        <span>ليس لديك حساب؟ <a  asp-controller="User" asp-action="register"  style="color: aliceblue;" onclick="register()">إنشاء حساب</a></span>
+                    </div>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,121 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("flaticon_mycollectionf946.ttf?42df3be1431b11bab4e8b5df502ce40d") format("truetype"),
+url("flaticon_mycollectionf946.woff?42df3be1431b11bab4e8b5df502ce40d") format("woff"),
+url("flaticon_mycollectionf946.woff2?42df3be1431b11bab4e8b5df502ce40d") format("woff2"),
+url("flaticon_mycollectionf946.eot?42df3be1431b11bab4e8b5df502ce40d#iefix") format("embedded-opentype"),
+url("flaticon_mycollectionf946.html?42df3be1431b11bab4e8b5df502ce40d#flaticon_mycollection") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon_mycollection";
+    src: url("Flaticon.html#Flaticon") format("svg");
+  }
+}
+
+
+i[class^="pt-flaticon-"]:before, i[class*=" pt-flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.pt-flaticon-next:before {
+    content: "\f101";
+}
+.pt-flaticon-right-arrow:before {
+    content: "\f102";
+}
+.pt-flaticon-next-1:before {
+    content: "\f103";
+}
+.pt-flaticon-left:before {
+    content: "\f104";
+}
+.pt-flaticon-telephone:before {
+    content: "\f105";
+}
+.pt-flaticon-mail:before {
+    content: "\f106";
+}
+.pt-flaticon-envelope:before {
+    content: "\f107";
+}
+.pt-flaticon-pin:before {
+    content: "\f108";
+}
+.pt-flaticon-map:before {
+    content: "\f109";
+}
+.pt-flaticon-location:before {
+    content: "\f10a";
+}
+.pt-flaticon-telephone-1:before {
+    content: "\f10b";
+}
+.pt-flaticon-smartphone:before {
+    content: "\f10c";
+}
+.pt-flaticon-call:before {
+    content: "\f10d";
+}
+.pt-flaticon-smartphone-1:before {
+    content: "\f10e";
+}
+.pt-flaticon-angle-left:before {
+    content: "\f10f";
+}
+.pt-flaticon-right-arrow-angle:before {
+    content: "\f110";
+}
+.pt-flaticon-right-arrow-1:before {
+    content: "\f111";
+}
+.pt-flaticon-right:before {
+    content: "\f112";
+}
+.pt-flaticon-right-arrow-2:before {
+    content: "\f113";
+}
+.pt-flaticon-arrow-button:before {
+    content: "\f114";
+}
+.pt-flaticon-right-arrow-3:before {
+    content: "\f115";
+}
+.pt-flaticon-left-quote:before {
+    content: "\f116";
+}
+.pt-flaticon-left-quotes-sign:before {
+    content: "\f117";
+}
+.pt-flaticon-quote:before {
+    content: "\f118";
+}
+.pt-flaticon-quote-1:before {
+    content: "\f119";
+}
+.pt-flaticon-quote-2:before {
+    content: "\f11a";
+}
+.pt-flaticon-chat:before {
+    content: "\f11b";
+}
+.pt-flaticon-chat-1:before {
+    content: "\f11c";
+}
+.pt-flaticon-left-quote-1:before {
+    content: "\f11d";
+}
+.pt-flaticon-quotes:before {
+    content: "\f11e";
+}
+.pt-flaticon-quotation:before {
+    content: "\f11f";
+}

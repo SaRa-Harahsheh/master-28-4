@@ -1,0 +1,182 @@
+﻿@model List<Product>
+@{
+    ViewData["Title"] = "AllProducts";
+    Layout = "NavBar2";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melipona - Beekeeping and Honey Shop HTML Template</title>
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" href="~/images/favicon.png">
+    <!-- Scrollbar -->
+    <link rel="stylesheet" href="~/css/simplebar.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- Animation CSS -->
+    <link rel="stylesheet" href="~/css/animations.min.css">
+    <!-- Icons CSS -->
+    <link rel="stylesheet" href="~/fonts/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="~/fonts/flaticon/flaticon.css">
+    <link rel="stylesheet" href="~/fonts/flaticon-2/flaticon_mycollection.css">
+    <link rel="stylesheet" href="~/fonts/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="~/fonts/ionicons/ionicons.min.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="~/css/magnific-popup.min.css">
+    <!--  Style CSS -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="~/css/responsive.css">
+</head>
+
+<body>
+    <!-- loading start -->
+    @* <div id="pq-loading"> *@
+    @*     <div id="pq-loading-center"> *@
+    @*         <img src="~/z.png" alt="loading"> *@
+    @*     </div> *@
+    @* </div> *@
+    <!-- loading end -->
+    <!-- Breadcrumb start -->
+    <div class="pq-breadcrumb">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <nav aria-label="breadcrumb">
+                        <div class="pq-breadcrumb-title">
+                            <h1> منتجاتنا </h1>
+                        </div>
+                        <div class="pq-breadcrumb-container">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="index-2.html">
+                                        <i class="fas fa-home mr-2"></i>الصفحة الرئيسية
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item active">
+                                    منجاتنا
+                                </li>
+                            </ol>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb end -->
+    <!-- 4 Column Shop Start -->
+    <section class="four-colomn-shop">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="pq-shorting-block">
+
+
+
+                        <p class="woocommerce-result-count">عرض 1–8 من 12 نتيجة</p>
+                        <form class="woocommerce-ordering">
+                            <select name="orderby">
+                                <option value="menu_order">الفرز الافتراضي</option>
+                                <option value="popularity">الفرز حسب الشهرة</option>
+                                <option value="rating">الفرز حسب التقييم</option>
+                                <option value="date">الفرز حسب الأحدث</option>
+                                <option value="price">الفرز حسب السعر: من الأقل إلى الأعلى</option>
+                                <option value="price-desc">الفرز حسب السعر: من الأعلى إلى الأقل</option>
+                            </select>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <ul class="products">
+                        <li class="product-item">
+                            <div class="pq-shop-box mt-0">
+                                <div class="pq-shop-product-img">
+                                    <img src="~/images/shop/shop-1.jpg" alt="">
+                                    <div class="pq-button-contain">
+                                        <a href="#" class="pq-cart-button">اضف الى السلة</a>
+                                    </div>
+                                </div>
+                                <div class="pq-product-detail">
+                                    <a href="product-detail.html">
+                                        <h3 class="pq-product-name">عسل الحنطة السوداء</h3>
+                                    </a>
+                                    <span class="pq-product-price">20.00 د.أ</span>
+                                </div>
+                            </div>
+                        </li>
+
+                        @foreach (var item in Model)
+                        {
+                            <li class="product-item">
+                                <div class="pq-shop-box mt-0">
+                                    <div class="pq-shop-product-img">
+                                        <img src="/images/shop/@item.Image" alt=""
+                                             onerror="this.onerror=null;this.src='@Url.Content("~/images/shop/shop-1.jpg")';">
+                                        <div class="pq-button-contain">
+                                            <a href="/Cart/Add/@item.Id" class="pq-cart-button">اضف الى السلة</a>
+                                        </div>
+                                    </div>
+                                    <div class="pq-product-detail">
+                                        <a asp-controller="Shop" asp-action="ProductDetail" asp-route-id="@item.Id">
+                                            <h3 class="pq-product-name">@item.Name</h3>
+                                        </a>
+                                        <span class="pq-product-price">@item.Price د.أ</span>
+                                    </div>
+                                </div>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <nav class="woocommerce-pagination">
+                        <ul class="page-numbers">
+                            <!-- <li><a class="prev page-numbers" href="#">←</a></li> -->
+                            <li><a class="page-numbers current" href="#">1</a></li>
+                            <!-- <li><a class="page-numbers" href="#">2</a></li> -->
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- 4 Column Shop End -->
+    <!-- Back to Top Start -->
+    <div id="back-to-top" class="active">
+        <a class="top" id="top" href="#top">
+            <i class="ion-ios-arrow-up"></i>
+        </a>
+    </div>
+    <!-- Back to Top End -->
+    <!--jquery js-->
+    <script src="~/js/jquery-3.7.1.js"></script>
+    <!--bootstrap js-->
+    <script src="~/js/bootstrap.min.js"></script>
+    <!-- Scrollbar -->
+    <script src="~/js/simplebar.min.js"></script>
+    <!--owl-carousal-->
+    <script src="~/js/owl.carousel.js"></script>
+    <!-- Isotope Js -->
+    <script src="~/js/isotope.pkgd.min.js"></script>
+    <!--countTo js-->
+    <script src="~/js/jquery.countTo.min.js"></script>
+    <!--Maginfic-Popup js-->
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <!-- Animation JS -->
+    <script src="~/js/wow.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="~/js/slick.js"></script>
+    <!--custom js-->
+    <script src="~/js/custom.js"></script>
+
+</body>
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpbh-mt'},{'server':'sg2plmcpnl492384'},{'dcenter':'sg2'},{'cp_id':'9858662'},{'cp_cache':''},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script>
+<script src='~/../../../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script>
+<!-- Mirrored from peacefulqode.co.in/themes/melipona/html/4-column-shop.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jan 2025 09:52:05 GMT -->
+</html>
+

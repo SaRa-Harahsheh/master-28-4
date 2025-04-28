@@ -1,0 +1,372 @@
+﻿@model Zainah_Nahool.ViewModels.ProductFeedbackViewModel
+
+
+
+
+
+@{
+    Layout = "NavBar2";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from peacefulqode.co.in/themes/melipona/html/product-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jan 2025 09:52:22 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melipona - Beekeeping and Honey Shop HTML Template</title>
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" href="~/images/favicon.png">
+    <!-- Scrollbar -->
+    <link rel="stylesheet" href="~/css/simplebar.min.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <!-- owl carousel -->
+    <link rel="stylesheet" href="~/css/owl.carousel.css">
+    <!-- Animation CSS -->
+    <link rel="stylesheet" href="~/css/animations.min.css">
+    <!-- Icons CSS -->
+    <link rel="stylesheet" href="~/fonts/font-awesome/css/all.min.css">
+    <link rel="stylesheet" href="~/fonts/flaticon/flaticon.css">
+    <link rel="stylesheet" href="~/fonts/flaticon-2/flaticon_mycollection.css">
+    <link rel="stylesheet" href="~/fonts/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="~/fonts/ionicons/ionicons.min.css">
+    <!-- magnific popup -->
+    <link rel="stylesheet" href="~/css/magnific-popup.min.css">
+    <!--  Style CSS -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="~/css/responsive.css">
+</head>
+
+<body>
+
+   
+    <!-- Breadcrumb start -->
+    <div class="pq-breadcrumb">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <nav aria-label="breadcrumb">
+                        <div class="pq-breadcrumb-title">
+                            <h1>@Model.Name</h1>
+                        </div>
+                        <div class="pq-breadcrumb-container">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item">
+                                    <a href="index.html">
+                                        <i class="fas fa-home mr-2"></i>الرئيسية
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a href="404.html">المنتجات</a>
+                                </li>
+                                <li class="breadcrumb-item active">@Model.Name</li>
+                            </ol>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumb end -->
+    <!-- Product Detail Start -->
+    <section class="product-info">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="pq-product-detail">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="pq-product-img">
+@*                                     <img src="/images/shop/@Model.Image" alt="@Model.Name">
+ *@                                    <img src="@Url.Content("~/images/shop/" + Model.Image)" alt="@Model.Name"
+                                                                               onerror="this.onerror=null;this.src='@Url.Content("~/images/shop/shop-1.jpg")';">
+
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="pq-product-description ms-lg-4">
+                                    <h3 class="pq-product-name">@Model.Name</h3>
+                                    <span class="pq-product-price">@Model.Price JD</span>
+                                    <p class="pq-description">@Model.Description</p>
+
+                                    <form class="cart" action="#" method="post">
+                                        <div class="quantity">
+                                            <button type="button" class="minus">-</button>
+
+
+                                            <label class="screen-reader-text" for="quantity_6561b8f327130">كمية عسل الزهور</label>
+                                            <input type="number" id="quantity_6561b8f327130" class="input-text qty text" value="1">
+                                            <button type="button" class="plus">+</button>
+                                        </div>
+                                        <button type="submit" name="add-to-cart" value="878" class="single_add_to_cart_button button alt">أضف إلى السلة</button>
+                                    </form>
+
+                                    <div class="product_meta">
+                                        <span class="posted_in">التصنيف: <a href="https://melipona.peacefulqode.com/product-category/apidae/" rel="tag">Apidae</a></span>
+                                    </div>
+
+
+                                    <div class="pq-product-share">
+                                        <span class="pq-share-name">شارك معنا :</span>
+
+                                        <ul class="pq-share-items">
+                                            <li class="pq-product-facebook-share">
+                                                <a href="http://www.facebook.com/sharer.php?u=https://melipona.peacefulqode.com/product/acacia-honey/" target="_blank">
+                                                    <span class="pq-product-share-link"><i class="fab fa-facebook-f"></i></span>
+                                                </a>
+                                            </li>
+                                            <li class="pq-product-twitter-share">
+                                                <a href="http://twitter.com/share?url=https://melipona.peacefulqode.com/product/acacia-honey/" target="_blank">
+                                                    <span class="pq-product-share-link"><i class="fab fa-twitter"></i></span>
+                                                </a>
+                                            </li>
+                                            <li class="pq-product-google-share">
+                                                <a href="https://plus.google.com/share?url=https://melipona.peacefulqode.com/product/acacia-honey/" target="_blank">
+                                                    <span class="pq-product-share-link">
+                                                        <i class="fab fa-google-plus"></i>
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="pq-product-linkedin-share">
+                                                <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://melipona.peacefulqode.com/product/acacia-honey/" target="_blank">
+                                                    <span class="pq-product-share-link"><i class="fab fa-linkedin"></i></span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="product-tabs">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link active" id="All-Events" data-bs-toggle="tab" href="#all" role="tab" aria-controls="All-Events" aria-selected="true">الوصف</a>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <a class="nav-link" id="Laboratory" data-bs-toggle="tab" href="#lab" role="tab" aria-controls="Laboratory" aria-selected="false" tabindex="-1">
+                                    المراجعات (@Model.FeedbackCount) <!-- عرض عدد المراجعات هنا -->
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade active show" id="all" role="tabpanel" aria-labelledby="All-Events">
+                                <h2>الوصف</h2>
+                                <p>العسل هو ربما أشهر منتجات النحل. إنه مادة حلوة ولزجة يصنعها نحل العسل من رحيق الأزهار. يجمع النحل الرحيق، الذي يحتوي على سكريات طبيعية، وإنزيمات، وكميات ضئيلة من مركبات أخرى. ثم يحوله إلى عسل من خلال عمليات إنزيمية والتبخير.</p>
+
+                            </div>
+
+                            <div class="tab-pane fade" id="lab" role="tabpanel" aria-labelledby="Laboratory">
+                                <h2>المراجعات</h2>
+                                <p>لا توجد مراجعات بعد.</p>
+                                <span class="comment-reply-title">كن أول من يراجع "@Model.Name"</span>
+                                <form asp-controller="Shop" asp-action="AddFeedback" method="post" class="pq-contact style-2">
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p class="comment-notes">لن يتم نشر عنوان بريدك الإلكتروني. الحقول المطلوبة مشار إليها بـ *</p>
+
+                                        </div>
+
+                                        <input type="hidden" name="ProductId" value="@Model.Id" />
+
+                                        <div class="col-md-4">
+                                            <input type="text" name="Name" class="form-control" placeholder="* أدخل اسمك">
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <input type="text" name="Email" class="form-control" placeholder="* أدخل بريدك الالكتروني">
+                                        </div>
+
+                                        <div class="col-md-4">
+                                            <input type="text" name="Url" class="form-control" placeholder="Enter Url">
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <label>Your review *</label>
+                                            <textarea name="comment" cols="40" rows="4" aria-required="true" aria-invalid="false" placeholder="Message"></textarea>
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <div class="comment-form-rating">
+                                                <label>
+                                                    Your rating&nbsp;<span class="required">*</span>
+                                                </label>
+                                                <div class="pq-rating-star">
+                                                    <i class="fa fa-star" data-value="1"></i>
+                                                    <i class="fa fa-star" data-value="2"></i>
+                                                    <i class="fa fa-star" data-value="3"></i>
+                                                    <i class="fa fa-star" data-value="4"></i>
+                                                    <i class="fa fa-star" data-value="5"></i>
+                                                </div>
+
+                                                 <input type="hidden" name="Rating" id="ratingValue" required>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <button type="submit" class="button-flat">Submit</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="shop">
+                        <h2 class="pq-heading-title">
+                            منتجات ذات صلة
+
+
+
+
+
+
+
+                        </h2>
+                        <ul class="products">
+                            <li class="product-item">
+                                <div class="pq-shop-box mt-0">
+                                    <div class="pq-shop-product-img">
+                                        <img src="~/images/shop/shop-1.jpg" alt="">
+                                        <div class="pq-button-contain">
+                                            <a href="#" class="pq-cart-button">أضف الى السلة  </a>
+                                        </div>
+                                    </div>
+                                    <div class="pq-product-detail">
+                                        <a href="product-detail.html">
+                                            <h3 class="pq-product-name">عسل الحنطة السوداء</h3>
+                                        </a>
+                                        <span class="pq-product-price">20.00 د.أ</span>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="product-item">
+                                <div class="pq-shop-box mt-md-0">
+                                    <div class="pq-shop-product-img">
+                                        <img src="~/images/shop/shop-2.jpg" alt="">
+                                        <div class="pq-button-contain">
+                                            <a href="#" class="pq-cart-button">أضف الى السلة</a>
+                                        </div>
+                                    </div>
+                                    <div class="pq-product-detail">
+                                        <a href="product-detail.html">
+                                            <h3 class="pq-product-name">عسل الزهور </h3>
+                                        </a>
+                                        <span class="pq-product-price">20.00 د.أ</span>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="product-item">
+                                <div class="pq-shop-box mt-lg-0">
+                                    <div class="pq-shop-product-img">
+                                        <img src="~/images/shop/shop-3.jpg" alt="">
+                                        <div class="pq-button-contain">
+                                            <a href="#" class="pq-cart-button">أضف الى السلة</a>
+                                        </div>
+                                    </div>
+                                    <div class="pq-product-detail">
+                                        <a href="product-detail.html">
+                                            <h3 class="pq-product-name">عسل البرسيم</h3>
+                                        </a>
+                                        <span class="pq-product-price">40.00 د.أ</span>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="product-item">
+                                <div class="pq-shop-box mt-lg-0">
+                                    <div class="pq-shop-product-img">
+                                        <img src="~/images/shop/shop-4.jpg" alt="">
+                                        <div class="pq-button-contain">
+                                            <a href="#" class="pq-cart-button">أضف الى السلة</a>
+                                        </div>
+                                    </div>
+                                    <div class="pq-product-detail">
+                                        <a href="product-detail.html">
+                                            <h3 class="pq-product-name">عسل الأكاسيا </h3>
+                                        </a>
+                                        <span class="pq-product-price">20.00 د.أ</span>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Product Detail End -->
+
+
+    <!--jquery js-->
+    <script src="~/js/jquery-3.7.1.js"></script>
+    <!--bootstrap js-->
+    <script src="~/js/bootstrap.min.js"></script>
+    <!-- Scrollbar -->
+    <script src="~/js/simplebar.min.js"></script>
+    <!--owl-carousal-->
+    <script src="~/js/owl.carousel.js"></script>
+    <!-- Isotope Js -->
+    <script src="~/js/isotope.pkgd.min.js"></script>
+    <!--countTo js-->
+    <script src="~/js/jquery.countTo.min.js"></script>
+    <!--Maginfic-Popup js-->
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <!-- Animation JS -->
+    <script src="~/js/wow.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="~/js/slick.js"></script>
+    <!--custom js-->
+    <script src="~/js/custom.js"></script>
+
+</body>
+
+<script>
+    document.querySelectorAll('.pq-rating-star i').forEach(star => {
+        star.addEventListener('click', function() {
+            const stars = this.parentElement.querySelectorAll('i');
+
+            // إزالة التحديد من جميع النجوم
+            stars.forEach(s => s.classList.remove('selected'));
+
+            // تلوين النجمة التي تم النقر عليها
+            this.classList.add('selected');
+
+            // تلوين النجوم السابقة
+            let prev = this.previousElementSibling;
+            while (prev) {
+                prev.classList.add('selected');
+                prev = prev.previousElementSibling;
+            }
+
+            // يمكن إضافة قيمة التقييم هنا إذا لزم الأمر
+            const ratingValue = this.getAttribute('data-value');
+            console.log("Rating Value: " + ratingValue);
+        });
+    });
+
+</script>
+
+
+
+
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpbh-mt'},{'server':'sg2plmcpnl492384'},{'dcenter':'sg2'},{'cp_id':'9858662'},{'cp_cache':''},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script>
+<script src='~/../../../../img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js'></script>
+<!-- Mirrored from peacefulqode.co.in/themes/melipona/html/product-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 25 Jan 2025 09:52:23 GMT -->
+</html>

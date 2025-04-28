@@ -1,0 +1,1777 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Zainah&Nahool.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Zainah&Nahool.r6t3orx1g4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\plugins\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\plugins\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\plugins\\range-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\range-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\plugins\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\6.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\7.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\admin.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\admin.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\blog-detail1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-detail1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\blog-detail2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-detail2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\blog-detail3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-detail3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\col6-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\col6-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\col6-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\col6-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\form1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\form1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\next-previous1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\next-previous1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\next-previous2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\next-previous2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\s1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\s1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\s2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\s2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\blog\\s3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\s3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\brand-logo\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\brand-logo\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\brand-logo\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\brand-logo\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\favicon.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\cancel-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\cancel-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\feature1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\feature2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\feature3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\funfact1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\funfact1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\funfact2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\funfact2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\funfact3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\funfact3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\menu-down2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\menu-down2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\icons\\quote1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\quote1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\logo.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\logo3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\logo4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\logo5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about-title.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about-title.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\about5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\about5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\contact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\eva.png",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\eva.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\faq-home.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\faq-home.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\faq.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\faq.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\page-header-text1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\page-header-text1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\photos\\page-not-found.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\photos\\page-not-found.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\6.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\7.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\8.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\6.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\7.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\8.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\banner\\9.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\banner\\9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\cart1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\cart1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\cart2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\cart2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\cart3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\cart3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\category\\6.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\category\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\modal1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\modal1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\comment1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\comment1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\comment2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\comment2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\product-details\\comment3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\product-details\\comment3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\quick-view1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\quick-view1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\s1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\s1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\shop\\s2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\shop\\s2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\slider1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\slider2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\slider3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\slider4.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\text-light.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\text-light.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\text-theme.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\text-theme.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\images\\slider\\text1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\text1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\plugins\\fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\plugins\\range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.7.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.7.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\animations.min.css",
+      "PackagePath": "staticwebassets\\css\\animations.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\css\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\Flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\Flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollection.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollection.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollectionf946.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollectionf946.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollectionf946.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollectionf946.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollectionf946.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollectionf946.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollectionf946.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollectionf946.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon-2\\flaticon_mycollectionf946.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon-2\\flaticon_mycollectionf946.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticon-2.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticon-3.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticon-4.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\Flaticond41d.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\Flaticond41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\ionicons\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\ionicons\\ionicons28b5-2.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons28b5-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\ionicons\\ionicons28b5-3.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons28b5-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\ionicons\\ionicons28b5.html",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons28b5.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\ionicons\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themify9f24-2.html",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify9f24-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themify9f24-3.html",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify9f24-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themify9f24.html",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify9f24.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\fonts\\themify-icons\\themifyd41d.html",
+      "PackagePath": "staticwebassets\\fonts\\themify-icons\\themifyd41d.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\AboutUS-h3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\AboutUS-h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\AboutUS-h3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\AboutUS-h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\AboutUS-inner-page-1.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\AboutUS-inner-page-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\AboutUS-inner-page-2.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\AboutUS-inner-page-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-h2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-h2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-h2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-h2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-h2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-h2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\about-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\About-us\\about-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\About-us\\honey-bee-about-1.png",
+      "PackagePath": "staticwebassets\\images\\About-us\\honey-bee-about-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-bg-h3-1-bee.png",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-bg-h3-1-bee.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-img-h3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-img-h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-img-h3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-img-h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-img-h3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-img-h3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-img-h3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-img-h3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\gallery-img-h3-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\gallery-img-h3-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Gallery\\galley-img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\Gallery\\galley-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Process\\process-img-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\Process\\process-img-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Process\\process-img-h2-2.png",
+      "PackagePath": "staticwebassets\\images\\Process\\process-img-h2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Process\\process-img-h2-3.png",
+      "PackagePath": "staticwebassets\\images\\Process\\process-img-h2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-2.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-3.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-4.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-5.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\Team\\team-img-h2-6.png",
+      "PackagePath": "staticwebassets\\images\\Team\\team-img-h2-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\6b1cfc4e38c603a32dd9c24e86a0c2bd5dd2a420.png",
+      "PackagePath": "staticwebassets\\images\\background\\6b1cfc4e38c603a32dd9c24e86a0c2bd5dd2a420.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\bg-img-1.png",
+      "PackagePath": "staticwebassets\\images\\background\\bg-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\honey-bee-footer.png",
+      "PackagePath": "staticwebassets\\images\\background\\honey-bee-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\img-bg-2.png",
+      "PackagePath": "staticwebassets\\images\\background\\img-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\img-bg-3.png",
+      "PackagePath": "staticwebassets\\images\\background\\img-bg-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\video-bg-h2-01.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\video-bg-h2-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\background\\video-bg-inner-service-01.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\video-bg-inner-service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\benefits\\benefits-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\benefits\\benefits-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\benefits\\benefits-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\benefits\\benefits-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\benefits\\benefits-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\benefits\\benefits-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\benefits\\benefits-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\benefits\\benefits-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\benefits\\benefits-img-h3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\benefits\\benefits-img-h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\avtar.png",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\avtar.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\gallery\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\gallery\\blog-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\gallery\\blog-single-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\gallery\\blog-single-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\gallery\\blog-single-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\gallery\\blog-single-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\gallery\\blog-single-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\gallery\\blog-single-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\blog-single\\gallery\\blog-single-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single\\gallery\\blog-single-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\column\\blog-img-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\column\\blog-img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\sidebar\\blog-sidebar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sidebar\\blog-sidebar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\sidebar\\blog-sidebar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sidebar\\blog-sidebar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\blog\\sidebar\\blog-sidebar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\sidebar\\blog-sidebar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\breadcamp-1.png",
+      "PackagePath": "staticwebassets\\images\\breadcamp-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\category\\category-bg-h3-1-bee.png",
+      "PackagePath": "staticwebassets\\images\\category\\category-bg-h3-1-bee.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\category\\category-img-h2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-img-h2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\category\\category-img-h2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-img-h2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\category\\category-img-h2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\category-img-h2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Aboutus_BG_1-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Aboutus_BG_1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Aboutus_BG_H2-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Aboutus_BG_H2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Categoires_BG-h3-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Categoires_BG-h3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Gallery_BG_1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Gallery_BG_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Offer_BG-h3-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Offer_BG-h3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Process-bg-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Process-bg-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\Service_BG_2.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\Service_BG_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\blog-bg-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\blog-bg-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\honey-bee-about-h3-2.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\honey-bee-about-h3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\offer-bg-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\offer-bg-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\shope_BEE_BG_1.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\shope_BEE_BG_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\floating-img\\team-bg-h2-1-bee.png",
+      "PackagePath": "staticwebassets\\images\\floating-img\\team-bg-h2-1-bee.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-1.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-2.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-3.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-4.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-5.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\footer\\footer-insta-6.png",
+      "PackagePath": "staticwebassets\\images\\footer\\footer-insta-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\form\\form-1.jpg",
+      "PackagePath": "staticwebassets\\images\\form\\form-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\form\\honey-bee-form-h3-1.png",
+      "PackagePath": "staticwebassets\\images\\form\\honey-bee-form-h3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\form\\honey-bee-form-h3-2.png",
+      "PackagePath": "staticwebassets\\images\\form\\honey-bee-form-h3-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\loading-img.png",
+      "PackagePath": "staticwebassets\\images\\loading-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\logo\\logo-1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\offer\\offter-img-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\offer\\offter-img-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\offer\\offter-img-h2-2.png",
+      "PackagePath": "staticwebassets\\images\\offer\\offter-img-h2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-10.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\masonry\\portfolio-masonry-9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\masonry\\portfolio-masonry-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\single\\portfolio-single-8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\single\\portfolio-single-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-10.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\slider\\portfolio-inn-9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\slider\\portfolio-inn-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-1.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-10.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-2.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-3.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-4.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-5.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-6.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-7.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-8.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\portfolio\\standerd\\portfolio-std-9.jpg",
+      "PackagePath": "staticwebassets\\images\\portfolio\\standerd\\portfolio-std-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\Service-img-h3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\Service-img-h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\Service-img-h3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\Service-img-h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\Service-img-h3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\Service-img-h3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\Service-img-h3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\service\\Service-img-h3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\honey-bee-service-h3-1.png",
+      "PackagePath": "staticwebassets\\images\\service\\honey-bee-service-h3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\service\\service-img-h2-1.png",
+      "PackagePath": "staticwebassets\\images\\service\\service-img-h2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\product-detail\\product-detail-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product-detail\\product-detail-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\shop-4.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\shop\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-5.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-h3-bg-6.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-h3-bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-inner-service-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-inner-service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\images\\testimonial\\testimonial-img-inner-service-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\testimonial-img-inner-service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\jquery-3.7.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.1.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\jquery.countTo.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countTo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\profile.js",
+      "PackagePath": "staticwebassets\\js\\profile.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\registration.js",
+      "PackagePath": "staticwebassets\\js\\registration.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\rev-custom.js",
+      "PackagePath": "staticwebassets\\js\\rev-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\loggo.png",
+      "PackagePath": "staticwebassets\\loggo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rahaf.webp",
+      "PackagePath": "staticwebassets\\rahaf.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\gridtile.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-2\\Banner_1_Bee_3.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-2\\Banner_1_Bee_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-2\\dummy.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-2\\dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-2\\home_Page_2_Banner_1_Flower.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-2\\home_Page_2_Banner_1_Flower.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-2\\home_Page_2_Banner_BG-scaled-50x100.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-2\\home_Page_2_Banner_BG-scaled-50x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-3\\Home_Page_3_Banner_1.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-3\\Home_Page_3_Banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-3\\Home_Page_3_Banner_2-1.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-3\\Home_Page_3_Banner_2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-3\\Home_Page_3_Banner_3-1.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-3\\Home_Page_3_Banner_3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index-3\\dummy.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index-3\\dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index\\banner-01.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index\\banner-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index\\banner-02-scaled.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index\\banner-02-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index\\banner-03-scaled.jpg",
+      "PackagePath": "staticwebassets\\rev\\assets\\index\\banner-03-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\index\\dummy.png",
+      "PackagePath": "staticwebassets\\rev\\assets\\index\\dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\assets\\loader.html",
+      "PackagePath": "staticwebassets\\rev\\assets\\loader.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\rev\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\rev\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\css\\rs6.css",
+      "PackagePath": "staticwebassets\\rev\\css\\rs6.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\rev\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\js\\rbtools.min.js",
+      "PackagePath": "staticwebassets\\rev\\js\\rbtools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\js\\rs6.min.js",
+      "PackagePath": "staticwebassets\\rev\\js\\rs6.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\rev\\registration.html",
+      "PackagePath": "staticwebassets\\rev\\registration.html"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\.png",
+      "PackagePath": "staticwebassets\\uploads\\.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\01898ff7-36bb-457b-8190-074e0b70dea9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\01898ff7-36bb-457b-8190-074e0b70dea9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\Contact-US.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Contact-US.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\bc367bbd-3dc0-4429-99a3-f1a74d33904d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\bc367bbd-3dc0-4429-99a3-f1a74d33904d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\default.png",
+      "PackagePath": "staticwebassets\\uploads\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\jozsef-szabo-6dSCUnilwHE-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\jozsef-szabo-6dSCUnilwHE-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\review.png",
+      "PackagePath": "staticwebassets\\uploads\\review.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\shunya-koide-1emWndlDHs0-unsplash.jpg",
+      "PackagePath": "staticwebassets\\uploads\\shunya-koide-1emWndlDHs0-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\uploads\\view.jpg",
+      "PackagePath": "staticwebassets\\uploads\\view.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Zainah&Nahool\\Zainah&Nahool\\wwwroot\\z.png",
+      "PackagePath": "staticwebassets\\z.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Zainah&Nahool.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Zainah&Nahool.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Zainah&Nahool.props",
+      "PackagePath": "build\\Zainah&Nahool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Zainah&Nahool.props",
+      "PackagePath": "buildMultiTargeting\\Zainah&Nahool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Zainah&Nahool.props",
+      "PackagePath": "buildTransitive\\Zainah&Nahool.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

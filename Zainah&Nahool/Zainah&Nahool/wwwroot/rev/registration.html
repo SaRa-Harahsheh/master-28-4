@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="../css/registration.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
+    <title>Ludiflex | تسجيل</title>
+</head>
+<body dir="rtl"> <!-- جعل الصفحة من اليمين إلى اليسار -->
+
+    <div class="wrapper">
+        <div class="form-box">
+            <!------------------- نموذج التسجيل --------------------------->
+            <div class="register-container" id="register">
+                <div class="top">
+                    <header>إنشاء حساب</header>
+                </div>
+
+                <!-- تحميل صورة الملف الشخصي -->
+                <div class="profile-picture">
+                    <img id="profilePicPreview" src="https://via.placeholder.com/100" alt="صورة الملف الشخصي" />
+                    <input type="file" id="profilePic" accept="image/*" onchange="previewImage(event)">
+                    <label for="profilePic" class="upload-btn">اختر صورة الملف الشخصي</label>
+                </div>
+
+                <div class="two-forms">
+                    <div class="input-box">
+                        <input type="text" class="input-field" placeholder="الاسم الأول" required>
+                        <i class="bx bx-user"></i>
+                    </div>
+                    <div class="input-box">
+                        <input type="text" class="input-field" placeholder="الاسم الأخير" required>
+                        <i class="bx bx-user"></i>
+                    </div>
+                </div>
+                
+                <div class="input-box">
+                    <input type="tel" class="input-field" placeholder="رقم الهاتف" required>
+                    <i class="bx bx-phone"></i>
+                </div>
+
+                <div class="input-box">
+                    <input type="email" class="input-field" placeholder="البريد الإلكتروني" required>
+                    <i class="bx bx-envelope"></i>
+                </div>
+
+                <div class="input-box">
+                    <input type="password" class="input-field" placeholder="كلمة المرور" required>
+                    <i class="bx bx-lock-alt"></i>
+                </div>
+
+                <div class="input-box">
+                    <input type="submit" class="submit" value="تسجيل">
+                </div>
+
+                <div class="top">
+                    <span>لديك حساب بالفعل؟ <a href="/login.html">تسجيل الدخول</a></span>
+                </div>
+          
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // وظيفة عرض معاينة الصورة عند التحميل
+        function previewImage(event) {
+            const reader = new FileReader();
+            reader.onload = function () {
+                document.getElementById('profilePicPreview').src = reader.result;
+            }
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.html");
+  src: url("Flaticond41d.html?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon-2.html") format("woff"),
+       url("Flaticon-3.html") format("truetype"),
+       url("Flaticon-4.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon-4.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"], [class*=" flaticon-"] {
+ font-family: "Flaticon";
+    src: url("Flaticon-4.html#Flaticon") format("svg");
+    font-style: normal;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.fimanager:before {
+      display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    display: block;
+}
+
+.flaticon-001-lemon:before { content: "\f100"; }
+.flaticon-002-honeycomb:before { content: "\f101"; }
+.flaticon-003-honeycomb:before { content: "\f102"; }
+.flaticon-004-bee:before { content: "\f103"; }
+.flaticon-005-beekeeper:before { content: "\f104"; }
+.flaticon-006-apiary:before { content: "\f105"; }
+.flaticon-007-bee:before { content: "\f106"; }
+.flaticon-008-honeycomb:before { content: "\f107"; }
+.flaticon-009-honey-jar:before { content: "\f108"; }
+.flaticon-010-honeycomb:before { content: "\f109"; }
+.flaticon-011-barrel:before { content: "\f10a"; }
+.flaticon-012-tea:before { content: "\f10b"; }
+.flaticon-013-honeycomb:before { content: "\f10c"; }
+.flaticon-014-honeycomb:before { content: "\f10d"; }
+.flaticon-015-honey-dipper:before { content: "\f10e"; }
+.flaticon-016-pancake:before { content: "\f10f"; }
+.flaticon-017-cosmetics:before { content: "\f110"; }
+.flaticon-018-wax:before { content: "\f111"; }
+.flaticon-019-serum:before { content: "\f112"; }
+.flaticon-020-beehive:before { content: "\f113"; }
+.flaticon-021-beehive:before { content: "\f114"; }
+.flaticon-022-bee:before { content: "\f115"; }
+.flaticon-023-bees:before { content: "\f116"; }
+.flaticon-024-apiary:before { content: "\f117"; }
+.flaticon-025-apiary:before { content: "\f118"; }
+.flaticon-026-bee-hive:before { content: "\f119"; }
+.flaticon-027-honey:before { content: "\f11a"; }
+.flaticon-028-trees:before { content: "\f11b"; }
+.flaticon-029-flower:before { content: "\f11c"; }
+.flaticon-030-honey:before { content: "\f11d"; }
+.flaticon-031-honey:before { content: "\f11e"; }
+.flaticon-032-honey-jar:before { content: "\f11f"; }
+.flaticon-033-gloves:before { content: "\f120"; }
+.flaticon-034-honeycomb:before { content: "\f121"; }

@@ -1,0 +1,88 @@
+﻿@model User
+@{
+    ViewData["Title"] = "register";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="~/css/registration.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap" rel="stylesheet">
+    <title>Ludiflex | تسجيل</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+
+</head>
+<body dir="rtl">
+    <!-- جعل الصفحة من اليمين إلى اليسار -->
+
+    <div class="wrapper">
+        <div class="form-box">
+
+            <form asp-controller="User" asp-action="HandelRegister" method="post" enctype="multipart/form-data">
+                <!-- نموذج التسجيل -->
+                <div class="register-container" id="register" style="height:50%;width: 100%;justify-content: flex-end;">
+                    <div class="top">
+                        <header>إنشاء حساب</header>
+                    </div>
+
+                    <!-- تحميل صورة الملف الشخصي -->
+                    <div class="profile-picture">
+                        <img id="profilePicPreview" src="https://via.placeholder.com/100" alt="صورة الملف الشخصي" />
+                        <input type="file" id="profilePic" name="Image" accept="image/*" onchange="previewImage(event)">
+                        <label for="profilePic" class="upload-btn">اختر صورة الملف الشخصي</label>
+                    </div>
+
+                    <div class="two-forms">
+                        <div class="input-box">
+                            <input type="text" class="input-field" placeholder="الاسم الأول" name="FirstName" required >
+                            <i class="bx bx-user first" style="right: 210px;"></i>
+                        </div>
+                        <div class="input-box">
+                            <input type="text" class="input-field" placeholder="الاسم الأخير" name="LastName" required>
+                            <i class="bx bx-user" style="right: 210px;"></i>
+                        </div>
+                    </div>
+
+                    <div class="input-box">
+                        <input type="tel" class="input-field" placeholder="رقم الهاتف" name="Phone" required>
+                        <i class="bx bx-phone"></i>
+                    </div>
+
+                    <div class="input-box">
+                        <input asp-for="Email" type="email" class="input-field" placeholder="البريد الإلكتروني" name="Email" required>
+                        <span asp-validation-for="Email" class="custom-error"></span>
+                        <i class="bx bx-envelope"></i>
+                    </div>
+
+                    <div class="input-box">
+                        <input type="password" class="input-field" placeholder="كلمة المرور" name="Password" required>
+                        <i class="bx bx-lock-alt"></i>
+                    </div>
+
+                    <div class="input-box">
+                        <button type="submit" class="submit" value="تسجيل">تسجيل</button>
+                    </div>
+
+                    <div class="top">
+                        <span>لديك حساب بالفعل؟ <a asp-controller="User" asp-action="Login">تسجيل الدخول</a></span>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+    
+
+    <script src="~/js/registration.js"></script>
+
+</body>
+</html>
+
+
+
